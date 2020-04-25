@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/hewie0202/docs#readme",
   "dependencies": {
+    "@vssue/api-github-v4": "^1.4.0",
+    "@vssue/vuepress-plugin-vssue": "^1.4.3",
     "moment": "^2.24.0"
   },
   "devDependencies": {
