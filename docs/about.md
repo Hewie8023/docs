@@ -1,5 +1,7 @@
 ---
 title: about
+date: 2018-12-28
+sidebarDepth: 2
 ---
 ## about me
 tttt

@@ -1,5 +1,6 @@
 ---
 title: about
+date: 2017-12-28
 ---
 ## about me
 tttt
@@ -16,5 +17,8 @@ tttt
 
 ### 2.2
 
+<img :src="$withBase('/favicon.ico')" alt="favicon">
+
+![favicon](/favicon.ico)
 
 <Vssue />

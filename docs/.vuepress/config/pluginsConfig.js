@@ -3,7 +3,7 @@ moment.locale("zh-cn");
 
 const secret = require('./secret');
 
-module.exports={
+module.exports = {
 
     '@vuepress/last-updated':
     {
@@ -35,5 +35,14 @@ module.exports={
     '@vuepress/google-analytics':
     {
         'ga': secret.ga
-    }
+    },
+    '@vuepress/medium-zoom': {
+        selector: 'img',
+    },
+    "vuepress-plugin-auto-sidebar": {
+        nav: true,
+        collapsable: true,
+        sidebarDepth: 2
+    },
+    '@vuepress/nprogress': true
 }

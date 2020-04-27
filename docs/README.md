@@ -1,8 +1,18 @@
 ---
 home: true
-#heroImage: /hero.png
-heroText: Hero 标题
-tagline: Hero 副标题
+heroImage: /hero.png
+heroImageStyle: {
+  maxWidth: '300px',
+  width: '100%',
+  display: block,
+  margin: '11rem auto 2rem',
+  borderRadius: '1rem',
+}
+bgImage: '/landscape-4961094_1920.jpg'
+bgImageStyle: {
+  height: '757px'
+}
+heroText: null
 actionText: 快速上手 →
 actionLink: /zh/guide/
 features:
