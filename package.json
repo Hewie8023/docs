@@ -24,7 +24,7 @@
     "@vssue/api-github-v4": "^1.4.0",
     "@vssue/vuepress-plugin-vssue": "^1.4.3",
     "countup.js": "^2.0.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "vuepress-theme-reco": "^1.4.5"
   },
   "devDependencies": {
